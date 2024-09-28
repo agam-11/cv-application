@@ -1,0 +1,14 @@
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 5px;
+}
